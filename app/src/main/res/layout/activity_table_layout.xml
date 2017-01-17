@@ -23,7 +23,8 @@
     <TableRow>
         <TextView android:layout_span="3"
                   android:layout_height="50dp"
-                  android:background="@color/yellow"/>
+                  android:background="@color/yellow"
+                  android:id="@+id/txtv01"/>
     </TableRow>
 
     <TableRow>

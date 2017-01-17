@@ -6,6 +6,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+/**
+ *  Main Screen
+ *  lua chon cac bai tap trong bai 06_Layouts_Exercises
+ *
+ *  @author nguyenlinh
+ *  @version 1.0
+ *  @since 2017-1-17
+ */
 public class MainActivity extends AppCompatActivity {
 
     private Button mButton01;
